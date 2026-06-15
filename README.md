@@ -137,19 +137,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Eshwar954/Eshwar954/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eshwar954/Eshwar954/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Eshwar954/Eshwar954/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Eshwar954/Eshwar954/pacman-output/pacman-contribution-graph.svg">
-</picture>
-
-###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/eshwarsai-k-79695a251/" target="_blank">
